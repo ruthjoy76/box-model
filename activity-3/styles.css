@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif
+}
+
+div {
+  padding: 8px;
+  margin: 8px;
+
+}
+
+.card, .content, .footer {
+  background-color: #E3F3FF;
+}
+
+.footer {
+  text-align: center;
+}
+
+.card {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.content {
+  padding: 16px 8px; 
+}
+
+button {
+  padding: 8px 24px;
+  border-style: hidden;
+  background-color: #fff;
+}
+
+

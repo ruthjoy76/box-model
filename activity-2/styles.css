@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+.d-one {
+  color: #111010;
+  padding: 32px;
+  border: 2px solid #4621F6;
+  background-color: #FAC0CB;
+  margin: 12px;
+
+}
+
+.d-two {
+  color: #111010;
+  padding: 32px;
+  border: 2px solid  #800080;
+  background-color: #ADD8E6;
+  margin: 12px auto;
+
+}
+
+.d-three {
+  color: #111010;
+  padding: 32px;
+  border: 2px solid  #A52C2C;
+  background-color: #FCDAB9;
+  margin: 48px 0 0 80%;
+
+}
+  
